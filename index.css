@@ -1,0 +1,25 @@
+body {
+    padding: 40px;
+    background: whitesmoke;
+    text-align: center;
+}
+
+#apple-shelf {
+    background: lightcoral;
+    border-radius: 10px;
+    height: 30px;
+    margin: 10px 0;
+}
+
+#orange-shelf {
+    background: lightsalmon;
+    border-radius: 10px;
+    margin: 10px 0;
+    height: 30px;
+}
+
+#banana-shelf {
+    background: lightyellow;
+    border-radius: 10px;
+    height: 30px;
+}
